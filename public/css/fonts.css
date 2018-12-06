@@ -1,0 +1,8 @@
+@font-face {
+    font-family: DIN-Bold;
+    src: url('../fonts/DIN-Bold_0.otf');
+}
+
+*{
+    font-family: DIN-Bold;
+}
